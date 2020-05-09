@@ -1,6 +1,6 @@
 name: addu_sis
 description: A Dart library for accessing AdDU Student Information System (SIS) data. Originally built for AdDU Hub Flutter app.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/sonroyaalmerol/dart-addu-sis
 repository: https://github.com/sonroyaalmerol/dart-addu-sis
 
